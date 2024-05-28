@@ -1,4 +1,6 @@
-Empyrion - Galactic Survival server analysis program.
+#EGSAnalysis
+
+**Empyrion - Galactic Survival server analysis program.**
 
 The program can show and filter
 - all player information
