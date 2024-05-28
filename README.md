@@ -8,6 +8,7 @@ The program can show and filter
 - trading station block log
 - trader log
 - server load and stop log
+
 You can use the program completely free of charge at your own risk.
 It is enough to run the program and specify the path to the server database.
 
