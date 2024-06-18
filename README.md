@@ -21,3 +21,6 @@ It is enough to run the program and specify the path to the server database.
 
 **Video on youtube**
 https://www.youtube.com/watch?v=sqI5vQWh4yM
+
+**Download program**
+https://elysium-game.com/16-egsanalysis.html
